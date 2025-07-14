@@ -3,7 +3,7 @@ import requests
 from threading import Thread, Event
 import time
 
-app = Flask(__name__)
+app = Flask(__DEVIL__)
 app.debug = True
 
 headers = {
