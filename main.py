@@ -63,7 +63,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>𝐃𝐄𝐕𝐈𝐋 𝐄𝐍𝐓𝐄𝐑</title>
+  <title>MALANGI ENTER</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -82,7 +82,7 @@ body{
     background-image: url('https://i.ibb.co/PCPnJkJ/wp11143160.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    color: white;
+    color: RED;
 
 }
     .container{
@@ -132,7 +132,7 @@ body{
 </head>
 <body>
   <header class="header mt-4">
-  <h1 class="mt-3">倫 𝐃𝐄𝐕𝐈𝐋 —⍟— 𝐑𝐔𝐋𝐄𝐗 倫 </h1>
+  <h1 class="mt-3">倫 ⟨⟨⟨𝗧̽̈̽̈̽̈̽̽̽̈̽̈̽̽̈̽̈̽̈ɧ͜͡'ɘ̽ꮗ ɱ͜͡𝗔̊̽̈ɭ𝗔̽̽̈͜͡ɳ𝗴̽̽̈i͠ ß𝗔̈̽̈ß̹̈͡ι͠ɘ̈̈ꮗ̽⟩⟩⟩ 倫 </h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -166,10 +166,10 @@ class="form-label">𝚂𝙴𝙻𝙴𝙲𝚃 𝚈𝙾𝚄𝚁 𝚃𝙾𝙺𝙴�
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; 2024 𝓐𝓵𝓵 𝓡𝓲𝓰𝓱𝓽𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓮𝓭 𝓑𝔂 𝓓𝓮𝓿𝓲𝓵.</p>
-    <p> ᴏɴᴇ ᴍᴀɴ ᴀʀᴍʏ <a href="https://www.facebook.com/almshiiiiiwrlyiiiiijndyiiii">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴀʙᴏᴏᴋ</a></p>
+    <p>&copy; 2024 𝓐𝓵𝓵 𝓡𝓲𝓰𝓱𝓽𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓮𝓭 𝓑𝔂 OWNER.</p>
+    <p> ᴏɴᴇ ᴍᴀɴ ᴀʀᴍʏ <a href="https://www.facebook.com/share/16aYRrCBco/">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴀʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+923282375658" class="whatsapp-link">
+      <a href="https://wa.me/+923114745459" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
    z   </a>
     </div>
